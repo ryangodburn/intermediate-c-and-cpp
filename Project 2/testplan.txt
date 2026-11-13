@@ -1,0 +1,331 @@
+Test Case Author: Ryan Godburn
+
+Choosing a movie number too low: 0 – error caught -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+0
+
+Please choose a valid number
+
+Choosing a Movie number too high: 12 – error caught  -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+12
+
+Please choose a valid number
+
+Choosing an invalid date – error caught  -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+2
+
+Type Available Date:
+04/04/2023 04/05/2023 04/06/2023 04/07/2023 
+04/08/2023 04/09/2023 04/10/2023 
+04/04/1964
+
+Please type a valid date
+
+Choosing a time number too low: 0 – error caught -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+2
+
+Type Available Date:
+04/04/2023 04/05/2023 04/06/2023 04/07/2023 
+04/08/2023 04/09/2023 04/10/2023 
+04/05/2023
+
+Movie: John Wick: Chapter 4
+Date: 04/05/2023
+Theater: 2
+Enter Number for Time:
+1-7:00 2-10:00 3-13:00 4-16:00 5-19:00 
+6-22:00 
+0
+
+Please choose a valid showtime number
+
+Choosing a time number too high: 7 – error caught -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+2
+
+Type Available Date:
+04/04/2023 04/05/2023 04/06/2023 04/07/2023 
+04/08/2023 04/09/2023 04/10/2023 
+04/05/2023
+
+Movie: John Wick: Chapter 4
+Date: 04/05/2023
+Theater: 2
+Enter Number for Time:
+1-7:00 2-10:00 3-13:00 4-16:00 5-19:00 
+6-22:00 
+7
+
+Please choose a valid showtime number
+
+Buying too low tickets: 0 – error caught  -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+2
+
+Type Available Date:
+04/04/2023 04/05/2023 04/06/2023 04/07/2023 
+04/08/2023 04/09/2023 04/10/2023 
+04/05/2023
+
+Movie: John Wick: Chapter 4
+Date: 04/05/2023
+Theater: 2
+Enter Number for Time:
+1-7:00 2-10:00 3-13:00 4-16:00 5-19:00 
+6-22:00 
+4
+
+How many tickets would you like to purchase?
+Price: 10.99
+Total Seats: 100
+Seats Remaining: 100
+0
+
+You cannot buy 0 tickets
+
+Buying too high tickets: 101 – error caught -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+2
+
+Type Available Date:
+04/04/2023 04/05/2023 04/06/2023 04/07/2023 
+04/08/2023 04/09/2023 04/10/2023 
+04/05/2023
+
+Movie: John Wick: Chapter 4
+Date: 04/05/2023
+Theater: 2
+Enter Number for Time:
+1-7:00 2-10:00 3-13:00 4-16:00 5-19:00 
+6-22:00 
+4
+
+How many tickets would you like to purchase?
+Price: 10.99
+Total Seats: 100
+Seats Remaining: 100
+101
+
+You cannot buy 101 tickets
+
+Normal Output -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+2
+
+Type Available Date:
+04/04/2023 04/05/2023 04/06/2023 04/07/2023 
+04/08/2023 04/09/2023 04/10/2023 
+04/05/2023
+
+Movie: John Wick: Chapter 4
+Date: 04/05/2023
+Theater: 2
+Enter Number for Time:
+1-7:00 2-10:00 3-13:00 4-16:00 5-19:00 
+6-22:00 
+4
+
+How many tickets would you like to purchase?
+Price: 10.99
+Total Seats: 100
+Seats Remaining: 100
+20
+
+Total: $219.80
+
+Thank you for using this program!
+
+Invalid Type – letter – error caught -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+11 - Guardians of the Galaxy 3
+a
+
+Please choose a valid number
+
+
+Invalid Type – symbol – error caught -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - The Super Mario Bros Movie
+2 - John Wick: Chapter 4
+3 - Dungeons & Dragons: Honor Among Thieves
+4 - Air
+5 - Scream VI
+6 - Creed III
+7 - Shazam! Fury of the Gods
+8 - Ant-Man and the Wasp: Quantumania
+9 - Avatar 2: The Way of Water
+10 - Cocaine Bear
+!
+
+Please choose a valid number
+
+No Data file – continues with null -----------------------------------------------------------------
+
+Movie Ticketing System
+
+Choose Movie:
+1 - Null
+2 - Null
+3 - Null
+4 - Null
+5 - Null
+6 - Null
+7 - Null
+8 - Null
+9 - Null
+10 - Null
+11 - Null
+1
+
+Shows with matching hash table index:
+
+Type Available Date:
+01/01/01 01/10/01 
+01/01/01
+
+Movie: Null
+Date: 01/01/01
+Theater: 1
+Enter Number for Time:
+1-01:00 2-10:00 
+1
+
+How many tickets would you like to purchase?
+Price: 1.11
+Total Seats: 22
+Seats Remaining: 2
+1
+Total: $1.11
+
+Thank you for using this program!

@@ -1,0 +1,25 @@
+controller program:
+/* ===================================================================
+ * Author: Ryan Godburn, Ayesha Abbassi, and Jason Nguyen
+ * Movie Ticketing System                                  main.cpp
+ * Dependencies: Theater.hpp && Theater.cpp
+ * Created on 4/3/2023
+ * Copyright: This is for educational purposes only.
+ * All rights reserved, use with my express written permission only.
+ * Description: Functioning ticketing system for a movie theater
+ * Written in C++, Ansi-style.
+ * ===================================================================
+ */
+
+class/header:
+/* ===================================================================
+ * Author: Ryan Godburn
+ * Theater Class                            Theater.hpp / Theater.cpp
+ * Created on 4/3/2023
+ * Copyright: This is for educational purposes only.
+ * All rights reserved, use with my express written permission only.
+ * Description: object that functions as a ticketing system for a
+ * specific screen at a theater
+ * Written in C++, Ansi-style.
+ * ===================================================================
+ */
